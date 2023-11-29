@@ -3,7 +3,8 @@
 <p><em>Software Enginner at <a href="https://www.elte.hu/">Eötvös Loránd University</a></br>Web Developer Intern at <a href="https://limelightr.org/">Lime Light Renold</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](www.linkedin.com/in/mahmoud-ezzat-275947234)
+[![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](www.linkedin.com/in/mahmoudezzat007)
+
 [![GitHub Mahmoudezzat00](https://img.shields.io/github/followers/mahmoudezzat00?label=follow&style=social)](https://github.com/Mahmoudezzat00)
 
 
@@ -56,7 +57,7 @@ const Mahmoud = {
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ezzat007/)](www.linkedin.com/in/mahmoud-ezzat007) 
+[![Linkedin Badge](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ezzat007/)](www.linkedin.com/in/mahmoudezzat007) 
 [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) 
 [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) 
 [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
