@@ -3,7 +3,8 @@
 <p><em>Software Enginner at <a href="https://www.elte.hu/">Eötvös Loránd University</a></br>Web Developer Intern at <a href="https://limelightr.org/">Lime Light Renold</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](www.linkedin.com/in/mahmoudezzat007)
+[![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
+
 
 [![GitHub Mahmoudezzat00](https://img.shields.io/github/followers/mahmoudezzat00?label=follow&style=social)](https://github.com/Mahmoudezzat00)
 
