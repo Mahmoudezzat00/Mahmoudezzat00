@@ -5,8 +5,6 @@
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](www.linkedin.com/in/mahmoudezzat007)
 
-[Linkedin](www.linkedin.com/in/mahmoudezzat007)
-
 [![GitHub Mahmoudezzat00](https://img.shields.io/github/followers/mahmoudezzat00?label=follow&style=social)](https://github.com/Mahmoudezzat00)
 
 
