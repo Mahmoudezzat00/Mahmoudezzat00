@@ -4,8 +4,6 @@
 </em></p>
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
-
-
 [![GitHub Mahmoudezzat00](https://img.shields.io/github/followers/mahmoudezzat00?label=follow&style=social)](https://github.com/Mahmoudezzat00)
 
 
@@ -46,20 +44,18 @@ const Mahmoud = {
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
     
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About :</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :computer: I'm an aspiring Fullstack Developer, currently doing front end projects
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure & Docker
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :man_technologist: Web development intern at LimeLightRenold foundation. 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :trophy: Former participant at ICPC - coding competition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
-
 [![Facebook Badge](https://img.shields.io/badge/-@MahmoodEzzat-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009704500499)](https://www.facebook.com/profile.php?id=100009704500499) 
-
 [![Instagram Badge](https://img.shields.io/badge/-@mahmoud_gharbia-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mahmood_gharbia/)](https://www.instagram.com/mahmood_gharbia/)
