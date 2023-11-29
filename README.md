@@ -58,7 +58,8 @@ const Mahmoud = {
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-ezzat007/)](www.linkedin.com/in/mahmoudezzat007) 
-[![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) 
-[![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) 
-[![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+[![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
+
+[![Facebook Badge](https://img.shields.io/badge/-@MahmoodEzzat-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009704500499)](https://www.facebook.com/profile.php?id=100009704500499) 
+
+[![Instagram Badge](https://img.shields.io/badge/-@mahmoud_gharbia-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mahmood_gharbia/)](https://www.instagram.com/mahmood_gharbia/)
