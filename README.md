@@ -52,7 +52,9 @@ const Mahmoud = {
 - :man_technologist: Web development intern at LimeLightRenold foundation. 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Former participant at ICPC - coding competition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: "... no one will reap except what they sow...."
+Qur'an 6:164
+<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
