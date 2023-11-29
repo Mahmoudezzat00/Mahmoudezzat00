@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mahmoud Ezzat! <img src="" width="50"></h2>
+<h2> Hi, I'm Mahmoud Ezzat! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/KE5qyapWk5nT4hi1Cg/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.elte.hu/">Eötvös Loránd University</a></br>Web Developer Intern at <a href="https://limelightr.org/">Lime Light Renold</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
