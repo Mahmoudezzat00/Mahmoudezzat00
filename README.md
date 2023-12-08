@@ -56,7 +56,7 @@ const Mahmoud = {
 Qur'an 6:164
 <br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left"> ❤️ Let's get connected:</h2>
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
 [![Facebook Badge](https://img.shields.io/badge/-@MahmoodEzzat-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009704500499)](https://www.facebook.com/profile.php?id=100009704500499) 
