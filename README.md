@@ -12,7 +12,7 @@
 ```javascript
 const Mahmoud = {
   
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C++, C#, C],
   tools: [React, SQL, Node.js, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
