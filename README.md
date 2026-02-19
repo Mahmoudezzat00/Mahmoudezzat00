@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mahmoud Ezzat! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/KE5qyapWk5nT4hi1Cg/giphy.gif" width="230">
-<p><em>Aspiring Software Enginner at <a href="https://www.elte.hu/">Eötvös Loránd University</a></br>Web Development Intern at <a href="https://limelightr.org/">Lime Light Renold</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Aspiring Software Enginner at <a href="https://www.elte.hu/">Eötvös Loránd University</a></br>QA Intern at SAP <a href="https://limelightr.org/">Lime Light Renold</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
@@ -44,24 +44,10 @@ const Mahmoud = {
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
     
-<h2 align="left">👨🏻‍💻 About :</h2>
-
-- :computer: I'm a Computer Science student passionate about bridging software engineering & biomedical innovation
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure & Docker
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Web development intern at LimeLightRenold foundation. 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Former participant at ICPC - coding competition
-- :zap: "... no one will reap except what they sow...."
-Qur'an 6:164
-<br>
-
-
-
 
 <h2 align="left">👨🏻‍💻 About :</h2>
 
-- 🔬 
+- 🔬 I'm a Computer Science student passionate about bridging software engineering & biomedical innovation
 - 🧪 2 years in Software Quality Control at SAP, focused on system reliability & validation
 - ☁️ Exploring Google Cloud, Microsoft Azure & Docker for scalable health-tech systems
 - 🧠 Interested in biomedical data processing, intelligent diagnostics & digital health solutions
