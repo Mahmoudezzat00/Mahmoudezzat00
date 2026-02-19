@@ -46,7 +46,7 @@ const Mahmoud = {
     
 <h2 align="left">👨🏻‍💻 About :</h2>
 
-- :computer: I'm an aspiring Fullstack Developer, currently doing front end projects
+- :computer: I'm a Computer Science student passionate about bridging software engineering & biomedical innovation
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure & Docker
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Web development intern at LimeLightRenold foundation. 
@@ -55,6 +55,36 @@ const Mahmoud = {
 - :zap: "... no one will reap except what they sow...."
 Qur'an 6:164
 <br>
+
+
+
+
+<h2 align="left">👨🏻‍💻 About :</h2>
+
+- 🔬 
+- 🧪 2 years in Software Quality Control at SAP, focused on system reliability & validation
+- ☁️ Exploring Google Cloud, Microsoft Azure & Docker for scalable health-tech systems
+- 🧠 Interested in biomedical data processing, intelligent diagnostics & digital health solutions
+- 🚀 Always ready to collaborate on impactful tech & research-driven experiments
+- 🏆 Former ICPC participant – strong analytical & problem-solving mindset
+- 🌍 International Student Representative & Mentor – experienced in cross-cultural collaboration
+- 📈 Building technology that aims to improve real-world healthcare systems
+- ⚡ "... no one will reap except what they sow...."  
+Qur'an 6:164
+
+<br>
+
+Software Quality Intern at SAP | Web Development Intern at 
+<a href="https://limelightr.org/">Lime Light Renold</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+
+
+
+
+
+
 
 <h2 align="left"> ❤️ Let's get connected:</h2>
 
