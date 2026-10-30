@@ -76,4 +76,4 @@ Software Quality Intern at SAP | Web Development Intern at
 
 [![Linkedin: Mahmoudezzat00](https://img.shields.io/badge/-mahmoudezzat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudezzat007/)](https://www.linkedin.com/in/mahmoudezzat007)
 [![Facebook Badge](https://img.shields.io/badge/-@MahmoodEzzat-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009704500499)](https://www.facebook.com/profile.php?id=100009704500499) 
-[![Instagram Badge](https://img.shields.io/badge/-@mahmoud_gharbia-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mahmood_gharbia/)](https://www.instagram.com/mahmood_gharbia/)
+[![Instagram Badge](https://img.shields.io/badge/-@mahmoud_gharbia-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mahmood_gharbia/)](https://www.instagram.com/mxdii.ez/)
